@@ -1,0 +1,3 @@
+[submodule "Driver/pcimem"]
+	path = Driver/pcimem
+	url = https://github.com/billfarrow/pcimem.git
